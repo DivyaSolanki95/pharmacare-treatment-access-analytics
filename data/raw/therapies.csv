@@ -1,0 +1,6 @@
+therapy_id,therapy_name,therapy_area,treatment_type,manufacturer
+TH001,OncoCare,Oncology,Specialty,NovaPharma
+TH002,CardioPlus,Cardiology,Chronic,HealthCore
+TH003,Immunexa,Immunology,Specialty,MedAxis
+TH004,Neurovia,Neurology,Specialty,BioNova
+TH005,GlucoBalance,Diabetes,Chronic,LifeWell

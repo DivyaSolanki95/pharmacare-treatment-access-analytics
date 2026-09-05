@@ -1,0 +1,61 @@
+provider_id,provider_name,region,specialty,provider_type
+PR001,Healthcare Provider 001,West,Endocrinology,Private Practice
+PR002,Healthcare Provider 002,East,Endocrinology,Hospital
+PR003,Healthcare Provider 003,South,Immunology,Private Practice
+PR004,Healthcare Provider 004,East,Immunology,Hospital
+PR005,Healthcare Provider 005,West,Immunology,Specialty Clinic
+PR006,Healthcare Provider 006,Central,Cardiology,Specialty Clinic
+PR007,Healthcare Provider 007,South,Neurology,Hospital
+PR008,Healthcare Provider 008,North,Neurology,Specialty Clinic
+PR009,Healthcare Provider 009,Central,Neurology,Hospital
+PR010,Healthcare Provider 010,North,Immunology,Private Practice
+PR011,Healthcare Provider 011,South,Neurology,Private Practice
+PR012,Healthcare Provider 012,East,Neurology,Private Practice
+PR013,Healthcare Provider 013,West,Oncology,Private Practice
+PR014,Healthcare Provider 014,Central,Immunology,Private Practice
+PR015,Healthcare Provider 015,Central,Oncology,Private Practice
+PR016,Healthcare Provider 016,South,Neurology,Hospital
+PR017,Healthcare Provider 017,West,Cardiology,Specialty Clinic
+PR018,Healthcare Provider 018,North,Cardiology,Hospital
+PR019,Healthcare Provider 019,South,Neurology,Private Practice
+PR020,Healthcare Provider 020,West,Neurology,Hospital
+PR021,Healthcare Provider 021,East,Oncology,Specialty Clinic
+PR022,Healthcare Provider 022,West,Cardiology,Specialty Clinic
+PR023,Healthcare Provider 023,South,Neurology,Specialty Clinic
+PR024,Healthcare Provider 024,Central,Cardiology,Specialty Clinic
+PR025,Healthcare Provider 025,West,Cardiology,Specialty Clinic
+PR026,Healthcare Provider 026,West,Neurology,Hospital
+PR027,Healthcare Provider 027,Central,Endocrinology,Specialty Clinic
+PR028,Healthcare Provider 028,Central,Cardiology,Hospital
+PR029,Healthcare Provider 029,West,Neurology,Hospital
+PR030,Healthcare Provider 030,North,Endocrinology,Private Practice
+PR031,Healthcare Provider 031,Central,Oncology,Hospital
+PR032,Healthcare Provider 032,North,Oncology,Private Practice
+PR033,Healthcare Provider 033,East,Immunology,Hospital
+PR034,Healthcare Provider 034,East,Immunology,Hospital
+PR035,Healthcare Provider 035,East,Endocrinology,Specialty Clinic
+PR036,Healthcare Provider 036,South,Oncology,Private Practice
+PR037,Healthcare Provider 037,North,Neurology,Specialty Clinic
+PR038,Healthcare Provider 038,North,Endocrinology,Private Practice
+PR039,Healthcare Provider 039,West,Immunology,Private Practice
+PR040,Healthcare Provider 040,North,Immunology,Hospital
+PR041,Healthcare Provider 041,East,Oncology,Hospital
+PR042,Healthcare Provider 042,South,Immunology,Hospital
+PR043,Healthcare Provider 043,South,Cardiology,Hospital
+PR044,Healthcare Provider 044,East,Oncology,Hospital
+PR045,Healthcare Provider 045,West,Endocrinology,Private Practice
+PR046,Healthcare Provider 046,Central,Immunology,Hospital
+PR047,Healthcare Provider 047,West,Endocrinology,Private Practice
+PR048,Healthcare Provider 048,East,Immunology,Specialty Clinic
+PR049,Healthcare Provider 049,West,Cardiology,Specialty Clinic
+PR050,Healthcare Provider 050,Central,Oncology,Hospital
+PR051,Healthcare Provider 051,West,Neurology,Specialty Clinic
+PR052,Healthcare Provider 052,East,Cardiology,Private Practice
+PR053,Healthcare Provider 053,West,Oncology,Private Practice
+PR054,Healthcare Provider 054,North,Oncology,Hospital
+PR055,Healthcare Provider 055,East,Oncology,Hospital
+PR056,Healthcare Provider 056,North,Immunology,Private Practice
+PR057,Healthcare Provider 057,East,Oncology,Specialty Clinic
+PR058,Healthcare Provider 058,Central,Oncology,Private Practice
+PR059,Healthcare Provider 059,South,Neurology,Private Practice
+PR060,Healthcare Provider 060,East,Oncology,Hospital
